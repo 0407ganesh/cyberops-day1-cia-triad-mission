@@ -23,7 +23,6 @@
 | 🎯 **Day** | Day 1 of 30 |
 | 🔖 **Topic** | Cybersecurity Fundamentals & CIA Triad |
 | 👤 **Analyst** | Ganesh (0407ganesh) |
-| 🏫 **Institution** | St. Francis Degree College, Koramangala, Bengaluru |
 
 ---
 
